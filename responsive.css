@@ -2,4 +2,20 @@
     .clients-info-text p {
         font-size: 15px;
     }
+    .slid h1 {
+        font-size: 39px;
+    }
+    .slid p {
+        width: 80%;
+    }
+    .finix-text h2 {
+        font-size: 30px;
+    }
+}
+@media (max-width:768){
+    .align-items-center {
+        align-items: center !important;
+        justify-content: space-between;
+        margin: 10px auto;
+    }
 }
