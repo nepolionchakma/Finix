@@ -12,9 +12,8 @@
         font-size: 30px;
     }
 }
-@media (max-width:768){
+@media (max-width:768px){
     .align-items-center {
-        align-items: center !important;
         justify-content: space-between;
         margin: 10px auto;
     }
