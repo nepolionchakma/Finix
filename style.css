@@ -740,7 +740,7 @@ ul.navbar-nav li ul li a:hover{}
     transform: translateY(40px);
     opacity: 0;
     visibility: hidden;
-}
+} 
 .our-expart-people:hover .expart-people-so-icon ul li{
     opacity: 1;
     visibility: visible;
